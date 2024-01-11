@@ -5,3 +5,5 @@ Here, TCP socket is created between Host and Client.
 Host IP is given as **192.168.1.2**
 
 Port is given as **8080**
+
+*Make sure Host and Client are connected to the same network*
